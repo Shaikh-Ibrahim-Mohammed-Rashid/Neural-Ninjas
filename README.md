@@ -15,17 +15,3 @@ Our team, **Neural Ninjas**, explored AI-driven data analysis and predictive mod
 - ✅ Interactive visualization of results  
 - ✅ Optimized for high accuracy  
 
-## 📂 Project Structure  
-```bash
-/Neural-Ninjas
-│── neural_ninjas.ipynb  # Jupyter Notebook (Full Implementation)
-'''
-
----
-
-## ⚙ Installation & Setup  
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/neural-ninjas.git
-cd neural-ninjas
-
